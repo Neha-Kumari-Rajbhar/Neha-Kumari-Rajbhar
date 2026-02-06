@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi 👋 I'm Neha  
 
-<!--
-**Neha-Kumari-Rajbhar/Neha-Kumari-Rajbhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Graduate  
+💻 Aspiring Full Stack Developer & Data Analyst  
 
-Here are some ideas to get you started:
+### 💡 Skills
+HTML, CSS, JavaScript, React.js, Node.js, Express.js,  
+Python, C++, DSA, Generative AI, NumPy, Pandas, Excel , jupyter notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS  
+Backend: Node.js, Express.js  
+Programming: Python  
+Libraries: NumPy, Pandas  
+
+### 📌 Projects
+- AI Website Builder (Claude.ai–like) | MERN + Gemini AI  
+- Centralized Automated System for Price Estimation (ESTIMATR) 
+- job_market_skill_analyzer 
+
+### 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/neha-kumari-rajbhar
+- Email: nehakumarirajbhar125@gmail.com
+
